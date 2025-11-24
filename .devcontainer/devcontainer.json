@@ -1,0 +1,6 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the
+{
+  "name": "dashboard",
+  "image": "ghcr.io/jwbennet/dashboard-dev-container:latest",
+  "postCreateCommand": "task setup"
+}

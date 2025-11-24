@@ -1,0 +1,10 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v2.5.1
+_src_path: gh:jwbennet/project-base
+custom_devcontainer_features: false
+devcontainer_image: ghcr.io/jwbennet/dashboard-dev-container
+git_provider: github
+github_organization: jwbennet
+github_repository: jwbennet/dashboard
+project_name: dashboard
+project_type: generic
